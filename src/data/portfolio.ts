@@ -14,10 +14,9 @@ export const profile = {
 }
 
 export const socials = {
-  // TODO: reemplaza con tus URLs reales
-  github: 'https://github.com/',
-  linkedin: 'https://www.linkedin.com/',
-  instagram: 'https://www.instagram.com/',
+  github: 'https://github.com/alannvrro',
+  linkedin: 'https://www.linkedin.com/in/alan-navarro-189259218',
+  instagram: 'https://www.instagram.com/navarro.aln/',
 }
 
 // Anclas de navegación (el texto visible se traduce en content.ts)

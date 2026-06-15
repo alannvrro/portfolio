@@ -5,7 +5,7 @@ import { profile, socials, navHrefs } from '../data/portfolio'
 import { translations } from '../data/content'
 import { useApp } from '../context/AppContext'
 
-const HERO_VIDEO = 'https://assets.mixkit.co/videos/45378/45378-720.mp4'
+const HERO_VIDEO = '/hero.mp4'
 
 const customEase: [number, number, number, number] = [0.16, 1, 0.3, 1]
 
